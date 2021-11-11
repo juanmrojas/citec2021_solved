@@ -1,0 +1,21 @@
+[{
+    "name": "Juan",
+    "lastName": "Rojas",
+    "isPreAuthorized": true,
+    "visitorType": 1
+}, {
+    "name": "Sergio",
+    "lastName": "Perez",
+    "isPreAuthorized": true,
+    "visitorType": 1
+}, {
+    "name": "John",
+    "lastName": "Doe",
+    "isPreAuthorized": false,
+    "visitorType": 0
+}, {
+    "name": "Robert",
+    "lastName": "Martin",
+    "isPreAuthorized": true,
+    "visitorType": 0
+}]
